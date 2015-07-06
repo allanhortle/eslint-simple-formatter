@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Clean formatter for eslint",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allanhortle/eslint-simple-formatter"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
