@@ -1,0 +1,19 @@
+{
+  "name": "eslint-simple-formatter",
+  "version": "1.0.0",
+  "description": "Clean formatter for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "formatter"
+  ],
+  "author": "Allan Hortle",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "cli-table": "^0.3.1"
+  }
+}
